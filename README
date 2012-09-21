@@ -1,0 +1,15 @@
+super-thin
+
+This repository contains the R code for the examples in the article:
+
+ R.A. Clements, F.P. Schoenberg, and A. Veen, Evaluation of space-time point process models using super-thinning, Environmetrics, to appear. 
+
+Required R packages:
+spatstat; quantreg; stppResid
+
+Note that the stppResid R package will be made available on CRAN and the source files on https://github.com/r-clements  sometime before 2013.
+
+There are two directories in this repository: (1) Simulations and (2) ETAS
+
+The Simulations directory contains the code for the examples in Section 4.1.
+The ETAS directory contains the code and necessary data for the examples in Section 4.2. 
